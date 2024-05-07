@@ -33,4 +33,4 @@ go run main.go
 
 ## Contributing
 
-Contributions to GoCo are welcome! If you encounter any bugs or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/adiryjoshi/goco).
+Contributions to GoCo are welcome! If you encounter any bugs or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/adityjoshi/goco).
