@@ -31,6 +31,9 @@ go run main.go
 | List           | l4:spam4:eggse               | [spam eggs]       |
 | Dictionary     | d3:cow3:moo4:spam4:eggse     | map[cow:moo spam:eggs] |
 
+![ScreenRecording2024-05-08at12 15 36PM-ezgif com-speed](https://github.com/adityjoshi/GoCo/assets/111140014/4a6125cb-9088-471a-a647-2330d90d347c)
+
+
 ## Contributing
 
 Contributions to GoCo are welcome! If you encounter any bugs or have suggestions for improvements, please open an issue or submit a pull request on the [GitHub repository](https://github.com/adityjoshi/goco).
