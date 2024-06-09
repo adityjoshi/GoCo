@@ -20,7 +20,7 @@ go get github.com/adiryjoshi/goco
 ## Usage
 To run the program, execute the following command:
 ```bash
-go run main.go
+go run main.go 
 ```
 ## Sample Inputs and Outputs
 
